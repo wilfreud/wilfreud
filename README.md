@@ -10,7 +10,7 @@ Skills: Python / React / NestJS / NextJS / ExpressJS / Docker / MySQL / SQLite /
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilfreud&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wilfreud)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfreud)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub metrics](https://metrics.lecoq.io/wilfreud)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=wilfreud)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfreud)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views](https://gpvc.arturio.dev/wilfreud)  
