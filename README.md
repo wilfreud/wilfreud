@@ -7,10 +7,10 @@ Skills: Python / React / NestJS / NextJS / ExpressJS / Docker / MySQL / SQLite /
 - 🌱 I’m currently learning functional programming 
 
 ![Fullstack Developer, Computer Science student](https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilfreud&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wilfreud)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilfreud&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfreud)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=wilfreud)  
 ![Profile views](https://gpvc.arturio.dev/wilfreud)  
 ![GitHub metrics](https://metrics.lecoq.io/wilfreud)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=wilfreud)](https://github.com/ryo-ma/github-profile-trophy)
