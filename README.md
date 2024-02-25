@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Wilfried
 #### Fullstack Developer, Software Engineering student
-I enjoy learning languages and frameworks like React/NextJS, NestJS, Python and C, as well as DevOps tools like Docker.
-I also like algorithms and tasks automation.
+I enjoy learning languages and frameworks such as React/NextJS, NestJS, Python and C, as well as DevOps tools.
+I also like algorithms and tasks automation (and somehow automta theory).
 
 - 🌱 I’m currently trying to learn DevOps and functional programming
 - Writing random things in C to get to know how things actually work under the hood
