@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Wilfried (aka Commodore64)
 #### Fullstack Developer, Junior DevOps, Software Engineering Student
-I enjoy learning languages and web development frameworks like NextJS, NestJS, Python and C (the holy language).
-I also like algorithms and automating tasks (and somehow automata theory).
+I enjoy learning languages and web development frameworks such as NextJS, NestJS, Python and C (the holy language), although my tech stack is a bit larger.
+I also like algorithms, low level programming and task automation (and somehow automata theory).
 
 - I'm currently learning DevOps 🚀.
 - I write random stuff in C.
