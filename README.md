@@ -3,7 +3,7 @@
 I enjoy learning languages and web development frameworks such as NextJS, NestJS, Python and C (the holy language), although my tech stack is a bit larger.
 I also like algorithms, low level programming and task automation (and somehow automata theory).
 
-- I'm currently learning DevOps 🚀.
+- I'm currently learning Scala & DevOps 🚀.
 - I write random stuff in C.
 - I recently developed a CLI called [Quirgo](https://npmjs.com/package/quirgo).
 
