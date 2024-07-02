@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Wilfried (aka Commodore64)
 #### Fullstack Developer, Junior DevOps, Software Engineering Student
-I mainly code in JS/TS, but I'd rather spend my days writing cool stuff in C (the holy language).
 
+I mainly code in JS/TS, but I'd rather spend my days writing cool stuff in C (the holy language). 
 I also like algorithms, low level programming, task automation & somewhow automata theory.
 
 - I'm currently learning DevOps 🚀 & Scala.
