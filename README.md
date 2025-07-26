@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Wilfried (aka Commodore64).
-#### Fullstack Developer, Junior DevOps, Software Engineering Student.
+#### Fullstack Developer, Junior DevOps, Software Engineering Graduate.
 
 Mainly codes in JS/TS, prefers low level programming & task automation.
 
